@@ -34,8 +34,6 @@ The following parameters can be configured at runtime:
    - Parameters like the left and right boundaries of the line, as well as the robot's speed and turning rate, can be dynamically configured.
 
 ## Launching the Node
-To launch the node, you can use the following command in your ROS2 workspace:
+To launch the node, you can use the following command in your ROS2 workspace when configured like in setup.py:
 ```bash
-ros2 launch follow_line follow_line_launch.py ```
-
-when configured like in setup.py
+ros2 launch follow_line follow_line_launch.py
