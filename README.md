@@ -36,4 +36,6 @@ The following parameters can be configured at runtime:
 ## Launching the Node
 To launch the node, you can use the following command in your ROS2 workspace:
 ```bash
-ros2 launch follow_line follow_line_launch.py when configured like in setup.py
+ros2 launch follow_line follow_line_launch.py ```
+
+when configured like in setup.py
